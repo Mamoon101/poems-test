@@ -9,4 +9,3 @@ unicorn
 ponnies
 orange
 pink
-uglycolor
